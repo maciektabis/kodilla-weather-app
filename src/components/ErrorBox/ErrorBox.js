@@ -9,7 +9,7 @@ const ErrorBox = ({ children }) => {
         Error
       </h1>
       <p>
-        {children}
+        It's not a city!
       </p>
     </div>
   );
